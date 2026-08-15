@@ -6,9 +6,11 @@
 
 **트레이더: STONKS-9800**은 90년대 레트로 터미널 스타일의 주식 거래 시뮬레이션 게임입니다. 주식 매매, 공매도, 채권 거래, 조건부 주문 등 다양한 금융 거래를 시뮬레이션하며 포트폴리오를 관리하고 자산을 늘려나갈 수 있습니다. 또한 AI 트레이더들과 경쟁하며 실시간 시장 이벤트에 대응해야 합니다.
 
-실행주소1 : https://sigco3111.github.io/stonks-9800/
+[![Live](https://img.shields.io/badge/Live-GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://sigco3111.github.io/stonks-9800/)
 
-실행주소2 : https://dev-canvas-pi.vercel.app/
+> **호스팅 이력**: 본 프로젝트는 Vercel에서 운영되었으나 2026-08에 GitHub Pages로 전환했습니다. 공식 라이브 데모는 위 Pages URL입니다.
+
+
 
 ## 주요 기능
 
